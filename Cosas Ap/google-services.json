@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19812870852",
+    "firebase_url": "https://gonext-52381.firebaseio.com",
+    "project_id": "gonext-52381",
+    "storage_bucket": "gonext-52381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19812870852:android:d359b2db2334d28f947791",
+        "android_client_info": {
+          "package_name": "com.example.gonext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19812870852-r99v18g4fg7hligp82lbs5jjng5l1fmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gonext",
+            "certificate_hash": "58452a5e30cec168df2d6ed6e5bbeb0a235bb927"
+          }
+        },
+        {
+          "client_id": "19812870852-n4s15bvutcdfmh6uotcbmt3u3ela5vp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxym-x4IhfK0pRmDMlI5WA-dYpNi_BHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19812870852-n4s15bvutcdfmh6uotcbmt3u3ela5vp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
